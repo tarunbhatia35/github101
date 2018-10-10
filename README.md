@@ -2,6 +2,7 @@
 Just to help you learn git.
 
 ## Git and Github for beginners
+## Git and Github for beginners
 Just follow these steps to get going...
 
 1. Fork and clone this repo.
