@@ -1,9 +1,9 @@
 # Introduction
 
-I am Yeshi Jinsel.
+I am Tarun Bhatia.
 
 
 # Hobbies
-  - Programming
+  - making fun of you
 
 ## My favourite smile is :flushed:
